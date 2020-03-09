@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 This is a sample project
 
 ## How To Contribute
+	
+Blah Blah
