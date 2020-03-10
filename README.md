@@ -15,3 +15,7 @@ This is a sample project
 ## How To Contribute
 	
 Blah Blah
+
+###
+
+Copyright@2020
