@@ -14,7 +14,7 @@ This is a sample project
 
 ## How To Contribute
 	
-	Make pull request.
+	Make pull request.Thanks
 
 ###
 
