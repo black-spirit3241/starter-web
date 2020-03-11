@@ -14,7 +14,7 @@ This is a sample project
 
 ## How To Contribute
 	
-Blah Blah
+	Make pull request.
 
 ###
 
