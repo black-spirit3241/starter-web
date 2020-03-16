@@ -16,6 +16,7 @@ This is a sample project
 ## How To Contribute
 	
 	Make pull request.Thanks
+	Please levae a review if you like this reop.
 
 ###
 
